@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Flutter, Dart**
 
-- 📝 I regularly write articles on [https://medium.com/@a88594562](https://medium.com/@a88594562)
+- 📝 I regularly write articles on [https://medium.com/@henryliang3027](https://medium.com/@henryliang3027)
 
 - 📫 How to reach me **henryliang3027@gmail.com**
 
