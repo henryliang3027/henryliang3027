@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Henry Liang</h1>
 <h3 align="center">A passionate Flutter developer from Taiwan</h3>
 
-- 🌱 I’m currently learning **Flutter, Dart**
-
 - 📝 I regularly write articles on [https://medium.com/@henryliang3027](https://medium.com/@henryliang3027)
 
 - 📫 How to reach me **henryliang3027@gmail.com**
